@@ -1,5 +1,5 @@
 ## customerror
-A simple tool to make custom errors
+A simple tool to make custom errors!
 
 The three functions are:
 
@@ -9,7 +9,7 @@ this returns a custom error. Pretty self-explanatory. Both arguments are strings
 trye(errorname, code)
 errorname is a string for the error to catch, and code is a string of code to try.
 
-checkforerror(errorname)
+checkerr(errorname)
 This returns true if the last error was a error with the error name (string).
 
 Example usage:
