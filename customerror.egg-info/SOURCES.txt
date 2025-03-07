@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+customerror.egg-info/PKG-INFO
+customerror.egg-info/SOURCES.txt
+customerror.egg-info/dependency_links.txt
+customerror.egg-info/not-zip-safe
+customerror.egg-info/top_level.txt
+src/__init__.py
+src/main.py

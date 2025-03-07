@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: customerror
+Version: 1.0
+Summary: a simple tool to make custom errors
+Home-page: 
+Author: Ziricium
+Author-email: ziriciumdev@gmail.com
+License: AND
+Requires: time
+License-File: LICENSE
